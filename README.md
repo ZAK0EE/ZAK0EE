@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ziad.gamalelden@gmail.com**
 
-- 📄 Know about my experiences [Ziad_Gamalelden_CV](https://drive.google.com/file/d/1_gmvPpRyvLs8KfCE37y2k8X8kx-Tn71p/view?usp=drive_link)
+- 📄 Know about my experiences [Ziad_Gamalelden_CV](https://drive.google.com/file/d/1vFJgjgFT2kmfN9YN7JzFobt3PgkKR6XO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
