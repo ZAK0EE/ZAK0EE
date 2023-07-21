@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Gamalelden</h1>
 <h3 align="center">A passionate software developer, interested mainly in software embedded systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zak0ee" alt="zak0ee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zak0ee&theme=darkhub" alt="zak0ee" /></a> </p>
 
 - 📫 How to reach me **ziad.gamalelden@gmail.com**
 
